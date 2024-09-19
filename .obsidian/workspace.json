@@ -11,12 +11,8 @@
             "id": "90e89b4ca9f510d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Класифікація розладів сприйняття.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,13 +129,15 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0fa698eb179cdf9",
+  "active": "90e89b4ca9f510d4",
   "lastOpenFiles": [
     "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація розладів відчуття.md",
+    "Templates/template.md",
     "Base/Модуль_1.md",
     "Base/Критерії психічного здоров'я.md",
     "Base/Оцінка психічного статусу.md",
@@ -152,7 +149,6 @@
     "Base/Психоз-невроз.md",
     "Base/Симптоми.md",
     "Base/Психічний статус.md",
-    "Templates/template.md",
     "Base/00 Пропедевтика.md",
     "Base/Чай_ГунМей.md",
     "Base/Чай_Пуер_Шу_Вишневий.md",
