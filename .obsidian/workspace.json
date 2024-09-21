@@ -11,8 +11,12 @@
             "id": "90e89b4ca9f510d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Класифікація розладів сприйняття.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Класифікація розладів сприйняття.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,13 +140,14 @@
   },
   "active": "90e89b4ca9f510d4",
   "lastOpenFiles": [
+    "Base/Класифікація психічних розладів.md",
+    "Base/00 Пропедевтика.md",
     "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація розладів відчуття.md",
     "Templates/template.md",
     "Base/Модуль_1.md",
     "Base/Критерії психічного здоров'я.md",
     "Base/Оцінка психічного статусу.md",
-    "Base/Класифікація психічних розладів.md",
     "Base/Невідкладна допомога.md",
     "Base/Психопатологічні синдроми.md",
     "Base/Госпіталізація.md",
@@ -149,7 +155,6 @@
     "Base/Психоз-невроз.md",
     "Base/Симптоми.md",
     "Base/Психічний статус.md",
-    "Base/00 Пропедевтика.md",
     "Base/Чай_ГунМей.md",
     "Base/Чай_Пуер_Шу_Вишневий.md",
     "Base/Чай_Червоний.md",
