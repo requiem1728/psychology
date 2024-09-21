@@ -11,12 +11,8 @@
             "id": "90e89b4ca9f510d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Класифікація розладів сприйняття.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Класифікація розладів сприйняття.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +135,10 @@
   },
   "active": "90e89b4ca9f510d4",
   "lastOpenFiles": [
+    "Base/Центральні питання свідомості.md",
+    "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація психічних розладів.md",
     "Base/00 Пропедевтика.md",
-    "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація розладів відчуття.md",
     "Templates/template.md",
     "Base/Модуль_1.md",
@@ -165,7 +161,6 @@
     "Base/PetersonLectures_Jung_DepthPsy.md",
     "Base/PetersonLectures_Piaget&Constructivism.md",
     "Base/Personality.md",
-    "Base/psychology.md",
     "Untitled.canvas",
     "Templates",
     "Files",
