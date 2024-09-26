@@ -11,8 +11,12 @@
             "id": "90e89b4ca9f510d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Структура.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Структура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +140,11 @@
   },
   "active": "90e89b4ca9f510d4",
   "lastOpenFiles": [
+    "Base/Структура.md",
+    "Base/Реджекшнблок.md",
+    "Base/Ордерблок.md",
+    "Base/Імбаланс.md",
+    "Base/Брейкерблок.md",
     "Base/Центральні питання свідомості.md",
     "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація психічних розладів.md",
@@ -156,11 +166,6 @@
     "Base/Чай_Червоний.md",
     "Base/Heroic_and_shamanic_initiations.md",
     "Base/00 Заварювання.md",
-    "Base/00 Personality and its transformations lectures.md",
-    "Base/PetersonLectures_Freud_DepthPsy.md",
-    "Base/PetersonLectures_Jung_DepthPsy.md",
-    "Base/PetersonLectures_Piaget&Constructivism.md",
-    "Base/Personality.md",
     "Untitled.canvas",
     "Templates",
     "Files",
