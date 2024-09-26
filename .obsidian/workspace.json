@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90e89b4ca9f510d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/Структура.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8bced3b382b9484d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Класифікація розладів відчуття.md",
+                "file": "Base/Структура.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,10 +126,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90e89b4ca9f510d4",
+  "active": "8bced3b382b9484d",
   "lastOpenFiles": [
     "Base/Класифікація розладів відчуття.md",
+    "Base/![[Pasted image 20240926202655.png.md",
     "Base/Структура.md",
+    "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
     "Files/Pasted image 20240926202655.png",
