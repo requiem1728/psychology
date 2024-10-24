@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/мовні стереотипи.md",
+                "file": "Base/Хворобливі ідеї.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/мовні стереотипи.md",
+                "file": "Base/Хворобливі ідеї.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,9 @@
   },
   "active": "27a44d01429d98f7",
   "lastOpenFiles": [
-    "Base/шизофренічне_мислення.md",
     "Base/мовні стереотипи.md",
+    "Base/Хворобливі ідеї.md",
+    "Base/шизофренічне_мислення.md",
     "Base/Класифікація розладів мислення.md",
     "Base/Модуль_2.md",
     "Base/Класифікація розладів сприйняття.md",
@@ -169,7 +170,6 @@
     "Base/Пропедевтика.md",
     "Base/Психоз-невроз.md",
     "Base/Симптоми.md",
-    "Base/Психічний статус.md",
     "Untitled.canvas",
     "Templates",
     "Files",
