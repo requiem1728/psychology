@@ -23,8 +23,12 @@
             "id": "27a44d01429d98f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Base/Маячні ідеї.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Маячні ідеї.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,12 +141,13 @@
   },
   "active": "27a44d01429d98f7",
   "lastOpenFiles": [
-    "Base/Маячні ідеї.md",
-    "Base/Хворобливі ідеї.md",
     "Base/мовні стереотипи.md",
+    "Base/Хворобливі ідеї.md",
+    "Base/Модуль_1.md",
+    "Base/Класифікація розладів мислення.md",
+    "Base/Маячні ідеї.md",
     "Base/шизофренічне_мислення.md",
     "Base/Модуль_2.md",
-    "Base/Класифікація розладів мислення.md",
     "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація розладів відчуття.md",
     "Base/Структура.md",
@@ -161,7 +167,6 @@
     "Base/Класифікація психічних розладів.md",
     "Base/00 Пропедевтика.md",
     "Templates/template.md",
-    "Base/Модуль_1.md",
     "Base/Критерії психічного здоров'я.md",
     "Base/Оцінка психічного статусу.md",
     "Base/Невідкладна допомога.md",
