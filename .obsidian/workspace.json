@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Класифікація розладів мислення.md",
+                "file": "Base/шизофренічне_мислення.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Класифікація розладів мислення.md",
+                "file": "Base/шизофренічне_мислення.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +137,9 @@
   },
   "active": "27a44d01429d98f7",
   "lastOpenFiles": [
-    "Base/Модуль_2.md",
     "Base/Класифікація розладів мислення.md",
+    "Base/шизофренічне_мислення.md",
+    "Base/Модуль_2.md",
     "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація розладів відчуття.md",
     "Base/Структура.md",
@@ -169,7 +170,6 @@
     "Base/Симптоми.md",
     "Base/Психічний статус.md",
     "Base/Чай_ГунМей.md",
-    "Base/Чай_Пуер_Шу_Вишневий.md",
     "Untitled.canvas",
     "Templates",
     "Files",
