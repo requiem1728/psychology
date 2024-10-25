@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Класифікаціія розладів волі.md",
+                "file": "Base/Синдроми рухових розладів.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Класифікаціія розладів волі"
+              "title": "Синдроми рухових розладів"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Класифікаціія розладів волі.md",
+                "file": "Base/Синдроми рухових розладів.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Класифікаціія розладів волі"
+              "title": "Backlinks for Синдроми рухових розладів"
             }
           }
         ]
@@ -151,15 +151,16 @@
   },
   "active": "27a44d01429d98f7",
   "lastOpenFiles": [
-    "Base/Порушення волі.md",
     "Base/Класифікаціія розладів волі.md",
+    "Base/Синдроми рухових розладів.md",
+    "Base/Модуль_2.md",
+    "Base/Модуль_1.md",
+    "Base/Порушення волі.md",
     "Base/Хворобливі ідеї.md",
     "Base/Маячні ідеї.md",
     "Base/мовні стереотипи.md",
-    "Base/Модуль_1.md",
     "Base/Класифікація розладів мислення.md",
     "Base/шизофренічне_мислення.md",
-    "Base/Модуль_2.md",
     "Base/Класифікація розладів сприйняття.md",
     "Base/Класифікація розладів відчуття.md",
     "Base/Структура.md",
@@ -183,7 +184,6 @@
     "Base/Оцінка психічного статусу.md",
     "Base/Невідкладна допомога.md",
     "Base/Психопатологічні синдроми.md",
-    "Base/Госпіталізація.md",
     "Untitled.canvas",
     "Templates",
     "Files",
