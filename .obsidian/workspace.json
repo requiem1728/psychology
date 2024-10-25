@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Хворобливі ідеї.md",
+                "file": "Base/Оцінка психічного статусу.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хворобливі ідеї"
+              "title": "Оцінка психічного статусу"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "маячн",
+                "query": "стат",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Хворобливі ідеї.md",
+                "file": "Base/Оцінка психічного статусу.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Хворобливі ідеї"
+              "title": "Backlinks for Оцінка психічного статусу"
             }
           }
         ]
