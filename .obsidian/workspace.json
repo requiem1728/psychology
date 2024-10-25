@@ -11,10 +11,14 @@
             "id": "62d6d37ee09ecc5d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Base/Розлади потягів.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Розлади потягів"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "Синдроми рухових розладів"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Синдроми рухових розладів.md",
+                "file": "Base/Розлади потягів.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Синдроми рухових розладів"
+              "title": "Backlinks for Розлади потягів"
             }
           }
         ]
@@ -149,9 +152,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a44d01429d98f7",
+  "active": "62d6d37ee09ecc5d",
   "lastOpenFiles": [
     "Base/Класифікаціія розладів волі.md",
+    "Base/Розлади потягів.md",
     "Base/Синдроми рухових розладів.md",
     "Base/Модуль_2.md",
     "Base/Модуль_1.md",
@@ -183,7 +187,6 @@
     "Base/Критерії психічного здоров'я.md",
     "Base/Оцінка психічного статусу.md",
     "Base/Невідкладна допомога.md",
-    "Base/Психопатологічні синдроми.md",
     "Untitled.canvas",
     "Templates",
     "Files",
