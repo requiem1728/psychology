@@ -23,15 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Психопатологічні синдроми.md",
+                "file": "Base/Непсихотичні синдроми.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Психопатологічні синдроми"
+              "title": "Непсихотичні синдроми"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Непсихотичні синдроми.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Непсихотичні синдроми"
             }
           }
         ]
@@ -147,10 +149,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62d6d37ee09ecc5d",
+  "active": "27a44d01429d98f7",
   "lastOpenFiles": [
-    "Base/Розлади потягів.md",
+    "Base/Психопатологічні регістри.md",
+    "Base/Непсихотичні синдроми.md",
     "Base/Психопатологічні синдроми.md",
+    "Base/Розлади потягів.md",
     "Base/Пропедевтика.md",
     "Base/Синдроми рухових розладів.md",
     "Base/Класифікаціія розладів волі.md",
@@ -180,8 +184,6 @@
     "Base/Центральні питання свідомості.md",
     "Base/Класифікація психічних розладів.md",
     "Base/00 Пропедевтика.md",
-    "Templates/template.md",
-    "Base/Критерії психічного здоров'я.md",
     "Untitled.canvas",
     "Templates",
     "Files",
