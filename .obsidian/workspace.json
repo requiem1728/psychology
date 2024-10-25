@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Оцінка психічного статусу.md",
+                "file": "Base/Маячні ідеї.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Оцінка психічного статусу"
+              "title": "Маячні ідеї"
             }
           },
           {
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "стат",
+                "query": "маячн",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Оцінка психічного статусу.md",
+                "file": "Base/Маячні ідеї.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Оцінка психічного статусу"
+              "title": "Backlinks for Маячні ідеї"
             }
           }
         ]
@@ -155,8 +155,8 @@
   },
   "active": "62d6d37ee09ecc5d",
   "lastOpenFiles": [
-    "Base/Класифікація розладів сприйняття.md",
     "Base/Оцінка психічного статусу.md",
+    "Base/Класифікація розладів сприйняття.md",
     "Base/Хворобливі ідеї.md",
     "Base/Маячні ідеї.md",
     "Base/Класифікація розладів мислення.md",
