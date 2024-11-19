@@ -2,11 +2,15 @@
 cssclasses:
   - dashboard
 ---
+
+
+
+
 📲 Точки входу
 _______________________________
 - 👁‍🗨content
 	- 📺[[youtube]]
-	- 👨‍🏫courses
+	- 👨‍🏫[[courses]]
 	-  📰articles
 - 👁‍🗨content
 	- 📘books
