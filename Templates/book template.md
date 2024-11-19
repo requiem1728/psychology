@@ -1,15 +1,13 @@
 ---
 type: book
 aliases:
----
-
-type: book
-aliases: - "& <%* tR += title %>"
-cover: {{coverUrl}}
-start:
-end:
-status: todo
+  - '- "& <%* tR += title %>"'
+cover: "{{coverUrl}}"
+start: 
+end: 
+status: 
 recommendedby:
+---
 
 ---
 
