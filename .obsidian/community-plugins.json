@@ -4,5 +4,6 @@
   "homepage",
   "obsidian-banners",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-book-search-plugin"
 ]
