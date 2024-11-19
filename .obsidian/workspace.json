@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "869e1c08de1abdc6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
@@ -139,10 +155,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "869e1c08de1abdc6",
   "lastOpenFiles": [
-    "Base/{{coverUrl}}.md",
     "Templates/book template.md",
+    "Base/{{coverUrl}}.md",
     "home/Homepage.md",
     "Base/courses.md",
     "Base/00 Personality and its transformations lectures.md",
