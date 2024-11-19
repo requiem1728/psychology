@@ -139,8 +139,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a0fa698eb179cdf9",
+  "active": "27a44d01429d98f7",
   "lastOpenFiles": [
+    "projects/movies",
     "projects/youtube",
     "projects/articles",
     "projects/books",
@@ -184,7 +185,6 @@
     "Files/Pasted image 20240926195735.png",
     "Templates",
     "Files",
-    "Base",
     "psychology.canvas"
   ]
 }

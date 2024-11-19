@@ -1,11 +1,11 @@
----
-cssclasses:
-  - dashboard
-aliases:
-  - '"дім"'
-  - '"д"'
-  - '"home" "h"'
----
+
+
 📲 Точки входу
 _______________________________
-👁‍🗨content
+- 👁‍🗨content
+	- 📺youtube
+	- 👨‍🏫courses
+	-  📰articles
+- 👁‍🗨content
+	- 📘books
+	- 🎬movies
