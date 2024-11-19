@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7a2bcd2620b6d3cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,8 @@
               "title": "book template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +156,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "869e1c08de1abdc6",
+  "active": "7a2bcd2620b6d3cf",
   "lastOpenFiles": [
+    "home/Homepage.md",
+    "Base/Екзистенційна психотерапія.md",
     "Templates/book template.md",
     "Base/{{coverUrl}}.md",
-    "home/Homepage.md",
     "Base/courses.md",
     "Base/00 Personality and its transformations lectures.md",
     "Base/00 Пропедевтика.md",
@@ -192,7 +194,6 @@
     "Base/Психопатологічні регістри.md",
     "Base/Психопатологічні синдроми.md",
     "Base/Розлади потягів.md",
-    "Base/Пропедевтика.md",
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
