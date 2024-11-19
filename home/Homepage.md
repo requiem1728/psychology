@@ -5,7 +5,7 @@ cssclasses:
 📲 Точки входу
 _______________________________
 - 👁‍🗨content
-	- 📺youtube
+	- 📺[[youtube]]
 	- 👨‍🏫courses
 	-  📰articles
 - 👁‍🗨content
