@@ -139,14 +139,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27a44d01429d98f7",
+  "active": "a0fa698eb179cdf9",
   "lastOpenFiles": [
+    "projects/youtube",
+    "projects/articles",
+    "projects/books",
+    "projects/courses",
+    "projects/Untitled.md",
+    "home/Homepage.md",
+    "projects/work",
+    "Untitled",
+    "projects",
     "Base/Непсихотичні синдроми.md",
     "home",
     "Base/Untitled.md",
     "Base/![[Pasted image 20240926202655.png.md",
     "Untitled.canvas",
-    "home/Homepage.md",
     "Base/Маячні ідеї.md",
     "Base/Оцінка психічного статусу.md",
     "Base/Класифікація розладів сприйняття.md",
@@ -167,7 +175,6 @@
     "Base/Модуль_2.md",
     "Base/Порушення волі.md",
     "Base/Класифікація розладів відчуття.md",
-    "Base/Структура.md",
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
@@ -178,8 +185,6 @@
     "Templates",
     "Files",
     "Base",
-    "Psychology/Jordan Peterson 2017 personality lectures",
-    "psychology.canvas",
-    "Psychology"
+    "psychology.canvas"
   ]
 }
