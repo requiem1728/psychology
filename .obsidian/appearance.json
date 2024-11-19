@@ -1,5 +1,9 @@
 {
   "baseFontSize": 16,
   "theme": "obsidian",
-  "accentColor": "#2c54f2"
+  "accentColor": "#2c54f2",
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }
