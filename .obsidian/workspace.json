@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
-                "mode": "preview",
+                "file": "Templates/book template.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "book template"
             }
           }
         ]
@@ -141,6 +141,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/{{coverUrl}}.md",
+    "Templates/book template.md",
     "home/Homepage.md",
     "Base/courses.md",
     "Base/00 Personality and its transformations lectures.md",
@@ -175,8 +177,6 @@
     "Base/Психопатологічні синдроми.md",
     "Base/Розлади потягів.md",
     "Base/Пропедевтика.md",
-    "Base/Синдроми рухових розладів.md",
-    "Base/Класифікаціія розладів волі.md",
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
