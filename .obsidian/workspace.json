@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "home/Homepage2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Homepage2"
             }
           }
         ]
@@ -139,9 +139,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0fa698eb179cdf9",
   "lastOpenFiles": [
     "home/Homepage.md",
+    "home/Homepage2.md",
     "projects/movies",
     "projects/youtube",
     "projects/articles",
