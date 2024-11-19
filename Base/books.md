@@ -6,25 +6,26 @@ aliases:
 
 
 %%cssClass: cards%%
-## В процессе
+## In progress
 **status:** ==wip== *(work in progress)*
 ```dataview
 TABLE WITHOUT ID	
-("![|80](" + cover + ")") as "Обложка",	file.link AS "Название",	author AS "Автор(ы)",	start AS "Начал",	category AS "Категория"
+("![|80](" + cover + ")") as "Cover",	file.link AS "Name",	author AS "Author(s)",	start AS "Started",	category AS "Cathegory"
 FROM !"templates"
 WHERE type = "book" AND status = "wip"
 ```
 
-## Ожидают прочтения
+## To be read
 **status:** ==todo==
 ```dataview
 TABLE WITHOUT ID	
-("![|80](" + cover + ")") as "Обложка",	file.link AS "Название",	author as "Автор(ы)",	recommendedby AS "Рекомендовано",	category AS "Категория"FROM !"templates"WHERE type = "book" AND status = "todo"
+("![|80](" + cover + ")") as "Cover",	file.link AS "Name",	author as "Author(s)",	recommendedby AS "Recommended by",	category AS "Cathegory"FROM !"templates"WHERE type = "book" AND status = "todo"
 ```
-## Завершённые
+## Alreaddy read
 **status:** ==done==
 ```dataview
 TABLE WITHOUT ID	
-("![|80](" + cover + ")") as "Обложка",	file.link AS "Название",	author AS "Автор(ы)",	start AS "Начал",	end AS "Закончил",	category AS "Категория"
+("![|80](" + cover + ")") as "Cover",	file.link AS "Name",	author AS "Author(s)",	start AS "Started",	end AS "Ended",	category AS "Cathegory"
 FROM !"templates"WHERE type = "book" AND status = "done"
-```
+````
+

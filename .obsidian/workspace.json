@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "869e1c08de1abdc6",
+            "id": "dc73b956595dc693",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "home/Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -24,35 +24,20 @@
             }
           },
           {
-            "id": "7a2bcd2620b6d3cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/book template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "book template"
-            }
-          },
-          {
-            "id": "9f9f17a3f1bdb306",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Base/books.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,11 +157,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9f9f17a3f1bdb306",
+  "active": "dc73b956595dc693",
   "lastOpenFiles": [
-    "home/Homepage.md",
     "Base/books.md",
+    "home/Homepage.md",
     "Templates/book template.md",
+    "Base/exos.md",
+    "Base/existential.md",
     "Base/therapy.md",
     "Templates/template.md",
     "Base/Екзистенційна психотерапія.md",
@@ -208,8 +195,6 @@
     "Base/Симптоми.md",
     "Base/Модуль_1.md",
     "Base/Класифікація психічних розладів.md",
-    "Base/шизофренічне_мислення.md",
-    "Base/мовні стереотипи.md",
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
