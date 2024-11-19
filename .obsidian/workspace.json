@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "69933675126ca81d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "c67b5fadf49d46f4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "27a44d01429d98f7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,15 +139,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27a44d01429d98f7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "home/Homepage.md",
     "projects/movies",
     "projects/youtube",
     "projects/articles",
     "projects/books",
     "projects/courses",
     "projects/Untitled.md",
-    "home/Homepage.md",
     "projects/work",
     "Untitled",
     "projects",
@@ -184,7 +184,6 @@
     "Files/Pasted image 20240926195908.png",
     "Files/Pasted image 20240926195735.png",
     "Templates",
-    "Files",
     "psychology.canvas"
   ]
 }
