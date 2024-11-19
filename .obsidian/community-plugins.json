@@ -2,5 +2,7 @@
   "obsidian-outliner",
   "obsidian-git",
   "homepage",
-  "obsidian-banners"
+  "obsidian-banners",
+  "templater-obsidian",
+  "dataview"
 ]

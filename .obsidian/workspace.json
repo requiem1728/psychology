@@ -153,14 +153,17 @@
       "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7a2bcd2620b6d3cf",
+  "active": "a0fa698eb179cdf9",
   "lastOpenFiles": [
+    "Base/therapy.md",
+    "Templates/book template.md",
+    "Templates/template.md",
     "home/Homepage.md",
     "Base/Екзистенційна психотерапія.md",
-    "Templates/book template.md",
     "Base/{{coverUrl}}.md",
     "Base/courses.md",
     "Base/00 Personality and its transformations lectures.md",
@@ -192,8 +195,6 @@
     "Base/шизофренічне_мислення.md",
     "Base/мовні стереотипи.md",
     "Base/Психопатологічні регістри.md",
-    "Base/Психопатологічні синдроми.md",
-    "Base/Розлади потягів.md",
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
