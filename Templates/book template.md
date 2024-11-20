@@ -1,14 +1,22 @@
+---
+type: book
+aliases:
+  - '- "& <%* tR += title %>"'
+cover: "{{coverUrl}}"
+start: 
+end: 
+status: todo
+recommendedby:
+---
+---
+tags : :
+prev : : [[books | back to library]]
+category : :
+author : : [[{{author}}]]
+children : :
 
-
-___
-tags::
-prev:: [[books|назад в библиотеку]]
-category::
-author:: [[{{author}}]]
-children::
-___
+---
 PDF
-![cover|150]({{coverUrl}}
-___
+![cover|1150]({{coverUrl}})
 
-
+---
