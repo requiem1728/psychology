@@ -3,9 +3,6 @@ cssclasses:
   - dashboard
 ---
 
-
-
-
 📲 Точки входу
 _______________________________
 - 👁‍🗨content
@@ -18,10 +15,9 @@ _______________________________
 
 
 ---
-Buttons
+🔘Buttons
 
-```
-button
+``` button
 name 📘 book
 type command
 action Book Search: Create new book note
