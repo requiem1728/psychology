@@ -1,20 +1,13 @@
 ---
 type: book
 aliases:
-  - '- "& <%* tR += title %>"'
+  - '- "& The Oxford Handbook of Clinical Psychology"'
 cover: "http://books.google.com/books/content?id=Cr0iAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 start: 
 end: 
 status: todo
-recommendedby:
+recommendedby: Obsidian
 ---
-
-<%*
-let title = tp.file.title
-if (title.startsWith("Untitled")) {title = await tp.system.prompt("Title");}
-await tp.file.rename(title)
--%>
-
 
 ---
 tags ::

@@ -3,5 +3,5 @@
   "newFileFolderPath": "Base",
   "attachmentFolderPath": "Files",
   "promptDelete": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "source"
 }
