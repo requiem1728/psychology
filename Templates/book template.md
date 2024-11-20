@@ -1,7 +1,7 @@
 ---
 type: book
 aliases:
-  - '- "& <%* tR += title %>"'
+  - "& <%* tR += title %>"
 cover: "{{coverUrl}}"
 start: 
 end: 

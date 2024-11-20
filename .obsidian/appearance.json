@@ -4,7 +4,6 @@
   "accentColor": "#2c54f2",
   "enabledCssSnippets": [
     "dashboard",
-    "dashboard-ReadLineLength",
-    "properties"
+    "dashboard-ReadLineLength"
   ]
 }
