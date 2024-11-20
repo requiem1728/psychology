@@ -2,7 +2,7 @@
 type: book
 aliases:
   - '- "& <%* tR += title %>"'
-cover: "{{coverUrl}}"
+cover: "http://books.google.com/books/content?id=Cr0iAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
 start: 
 end: 
 status: todo
@@ -20,11 +20,11 @@ await tp.file.rename(title)
 tags ::
 prev :: [[books | back to library]]
 category ::
-author :: [[{{author}}]]
+author :: [[David H. Barlow]]
 children ::
 
 ---
 PDF
-![cover|1150]({{coverUrl}})
+![cover|1150](http://books.google.com/books/content?id=Cr0iAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 ---
