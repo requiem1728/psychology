@@ -18,6 +18,14 @@ _______________________________
 ---
 🔘Buttons
 
+```button
+name 🧑‍🏫 course 
+type note(Untitled) template
+action course template
+templater true
+```
+
+
 ``` button
 name 📘 book
 type command
