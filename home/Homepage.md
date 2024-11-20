@@ -25,7 +25,6 @@ action course template
 templater true
 ```
 
-
 ``` button
 name 📘 book
 type command
