@@ -8,23 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc73b956595dc693",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "566821f8acecfdfe",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +141,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "dc73b956595dc693",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/books.md",
     "home/Homepage.md",
+    "Base/books.md",
     "Templates/book template.md",
     "Base/exos.md",
     "Base/existential.md",
