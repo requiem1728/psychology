@@ -51,8 +51,7 @@
               "title": "books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d4f226255527a5f0",
+  "active": "c97ae81de02d625c",
   "lastOpenFiles": [
+    "Base/books.md",
     "Base/The Oxford Handbook of Clinical Psychology.md",
     "Templates/book template.md",
     "home/Homepage.md",
     "The Oxford Handbook of Clinical Psychology.jpg",
-    "Base/books.md",
     "Files/The Oxford Handbook of Clinical Psychology.jpg",
     "Base/{{coverUrl}}.md",
     "Templates/template.md",
