@@ -5,7 +5,7 @@ aliases:
 cover: "{{coverUrl}}"
 start: 
 end: 
-status: 
+status: todo
 recommendedby:
 ---
 

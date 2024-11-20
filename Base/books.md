@@ -21,7 +21,7 @@ WHERE type = "book" AND status = "wip"
 TABLE WITHOUT ID	
 ("![|80](" + cover + ")") as "Cover",	file.link AS "Name",	author as "Author(s)",	recommendedby AS "Recommended by",	category AS "Cathegory"FROM !"templates"WHERE type = "book" AND status = "todo"
 ```
-## Alreaddy read
+## Already read
 **status:** ==done==
 ```dataview
 TABLE WITHOUT ID	
