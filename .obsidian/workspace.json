@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "d4f226255527a5f0",
+            "id": "a249e95449baebfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +51,8 @@
               "title": "books"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,12 +172,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c97ae81de02d625c",
+  "active": "1e828caab254876e",
   "lastOpenFiles": [
-    "Base/books.md",
     "Base/The Oxford Handbook of Clinical Psychology.md",
-    "Templates/book template.md",
+    "Base/books.md",
     "home/Homepage.md",
+    "Templates/book template.md",
     "The Oxford Handbook of Clinical Psychology.jpg",
     "Files/The Oxford Handbook of Clinical Psychology.jpg",
     "Base/{{coverUrl}}.md",
