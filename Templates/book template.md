@@ -1,11 +1,4 @@
-
-<%*
-let title = tp.file.title
-if (title.startsWith("Untitled")) {
-title = await tp.system.prompt("Title");
-}
-await tp.file.rename(title)
--%>---
+---
 type: book
 aliases: - "& <%* tR += title %>"
 cover: {{coverUrl}}
@@ -14,7 +7,27 @@ end:
 status: todo
 recommendedby:
 ---
+<%*
+  let title = tp.file.title
+  if (title.startsWith("Untitled")) {
+    title = await tp.system.prompt("Title");
+    await tp.file.rename(`${title}`);
+  } 
+  tR += "---"
+%>
+tags: Note <%tp.file.creation_date("YYYY")%>
+---
+# <%* tR += `${title}` %>
 
+<% tp.file.cursor() %>
+
+___
+
+## References:
+- 
+
+---
+creation date:: [[<%tp.file.creation_date("YYYY-MM-DD")%>]] <%tp.file.creation_date("HH:mm")%>
 
 
 ___
