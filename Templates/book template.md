@@ -25,6 +25,6 @@ children ::
 
 ---
 PDF
-![cover|1150]({{coverUrl}})
+![cover|150]({{coverUrl}})
 
 ---
