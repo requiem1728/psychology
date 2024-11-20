@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/The Oxford Handbook of Clinical Psychology.md",
+                "file": "Base/books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Oxford Handbook of Clinical Psychology"
+              "title": "books"
             }
           }
         ],
@@ -174,10 +174,11 @@
   },
   "active": "d4f226255527a5f0",
   "lastOpenFiles": [
-    "Base/books.md",
-    "Templates/book template.md",
     "Base/The Oxford Handbook of Clinical Psychology.md",
+    "Templates/book template.md",
     "home/Homepage.md",
+    "The Oxford Handbook of Clinical Psychology.jpg",
+    "Base/books.md",
     "Files/The Oxford Handbook of Clinical Psychology.jpg",
     "Base/{{coverUrl}}.md",
     "Templates/template.md",
@@ -218,7 +219,6 @@
     "Files/Pasted image 20240926202655.png",
     "Files/Pasted image 20240926200351.png",
     "Files/Pasted image 20240926195908.png",
-    "Files/Pasted image 20240926195735.png",
     "Templates",
     "psychology.canvas"
   ]
