@@ -19,9 +19,9 @@ recommendedby:
 
 ---
 tags ::
-prev :: [[books | back to library]]
+prev :: 📚 [[books | back to library]]
 category ::
-author :: [[{{author}}]]
+author ::👨 [[{{author}}]]
 children ::
 
 ---
