@@ -13,4 +13,13 @@ status: todo
 <% "---" %>
 
 ---
+tags::
+prev:: [[courses | back to library]]
+category::
+url::
+children::
 
+---
+
+
+<% tp.file.cursor(0) %>
