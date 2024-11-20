@@ -51,8 +51,7 @@
               "title": "book template"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,11 +171,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0b18b4e9f388a226",
+  "active": "dc73b956595dc693",
   "lastOpenFiles": [
-    "home/Homepage.md",
     "Base/books.md",
     "Templates/book template.md",
+    "home/Homepage.md",
     "Base/exos.md",
     "Base/existential.md",
     "Base/therapy.md",
