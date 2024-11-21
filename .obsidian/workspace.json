@@ -8,58 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9722cea786dea86",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "70e1eb147fb5095b",
+            "id": "189ac0ec5d9109bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пропедевтика_психіатрії.md",
+                "file": "Base/books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пропедевтика_психіатрії"
-            }
-          },
-          {
-            "id": "0e754fcb9d291d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Base/courses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "courses"
+              "title": "books"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "ed2d259695e8502f",
+        "id": "e6b37c8b57d70c6b",
         "type": "tabs",
         "children": [
           {
-            "id": "5658e43b2cf73f33",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -113,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{",
+                "query": "tag:#загльна_психопатологія",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Пропедевтика_психіатрії.md",
+                "file": "Base/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Пропедевтика_психіатрії"
+              "title": "Backlinks for books"
             }
           }
         ]
@@ -188,22 +158,29 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "70e1eb147fb5095b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/Симптоми.md",
+    "Base/Госпіталізація.md",
+    "Base/Критерії психічного здоров'я.md",
     "Base/Модуль_1.md",
     "Base/Пропедевтика_психіатрії.md",
-    "Base/Модуль_2.md",
     "Base/courses.md",
     "home/Homepage.md",
+    "Base/books.md",
+    "Base/Екзистенційна психотерапія.md",
+    "Base/The Denial of Death.md",
+    "The Denial of Death.jpg",
+    "/The Denial of Death.jpg",
+    "Base/Модуль_2.md",
+    "Base/Модуль 3.md",
     "Base/Пропедевтика.md",
     "Templates/course template.md",
-    "Base/books.md",
     "Templates/book template.md",
     "пропедевтика.md",
     "Base/Пропедевтика_Психіатрії.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Templates/template.md",
-    "Base/Екзистенційна психотерапія.md",
     "Пропедевтика психіатрії.md",
     "Base/Untitled.md",
     "Base/The Oxford Handbook of Clinical Psychology.md",
@@ -216,16 +193,11 @@
     "/The Oxford Handbook of Clinical Psychology.jpg",
     "Base/exos.md",
     "Base/existential.md",
-    "Base/therapy.md",
-    "Base/00 Personality and its transformations lectures.md",
-    "Base/00 Пропедевтика.md",
-    "Base/youtube.md",
     "projects/movies",
     "projects/youtube",
     "projects/articles",
     "projects/books",
     "projects/courses",
-    "projects/Untitled.md",
     "projects/work",
     "Untitled",
     "projects",
@@ -234,8 +206,6 @@
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
     "Files/Pasted image 20240926215256.png",
-    "Files/Pasted image 20240926202655.png",
-    "Files/Pasted image 20240926200351.png",
     "Templates",
     "psychology.canvas"
   ]
