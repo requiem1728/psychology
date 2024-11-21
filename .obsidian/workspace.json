@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "189ac0ec5d9109bf",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "home/Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -137,7 +141,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "189ac0ec5d9109bf",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Base/Екзистенційна психотерапія.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
