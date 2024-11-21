@@ -24,26 +24,40 @@
             }
           },
           {
-            "id": "55a221ad56593d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/course template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "course template"
-            }
-          },
-          {
             "id": "70e1eb147fb5095b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пропедевтика_психіатрії.md",
+                "file": "Base/Модуль_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Модуль_2"
+            }
+          },
+          {
+            "id": "0e754fcb9d291d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/courses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "courses"
+            }
+          },
+          {
+            "id": "5658e43b2cf73f33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Пропедевтика_психіатрії.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,7 +66,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "93be23a0d504bdce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc0b4b3a7da5ee6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Маячні ідеї.md",
+                "file": "Base/Пропедевтика_психіатрії.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Маячні ідеї"
+              "title": "Backlinks for Пропедевтика_психіатрії"
             }
           }
         ]
@@ -161,9 +191,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
       "templates:Insert template": false,
       "obsidian-git:Open Git source control": false,
@@ -172,19 +202,22 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "70e1eb147fb5095b",
+  "active": "5658e43b2cf73f33",
   "lastOpenFiles": [
-    "Base/courses.md",
     "home/Homepage.md",
+    "Base/Модуль_1.md",
+    "Base/Пропедевтика.md",
+    "Base/Пропедевтика_психіатрії.md",
+    "Base/Модуль_2.md",
+    "Base/courses.md",
     "Templates/course template.md",
-    "Пропедевтика_психіатрії.md",
+    "Base/books.md",
     "Templates/book template.md",
     "пропедевтика.md",
     "Base/Пропедевтика_Психіатрії.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Templates/template.md",
     "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
     "Пропедевтика психіатрії.md",
     "Base/Untitled.md",
     "Base/The Oxford Handbook of Clinical Psychology.md",
@@ -210,9 +243,7 @@
     "projects/work",
     "Untitled",
     "projects",
-    "Base/Непсихотичні синдроми.md",
     "home",
-    "Base/![[Pasted image 20240926202655.png.md",
     "Untitled.canvas",
     "Files/Pasted image 20240926220313.png",
     "Files/Pasted image 20240926215434.png",
