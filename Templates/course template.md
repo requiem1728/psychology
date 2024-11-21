@@ -8,7 +8,8 @@ title = await tp.system.prompt("Title");
 await tp.file.rename(title)
 -%>
 type: course
-aliases: - "{ <%* tR += title %>"
+aliases: 
+- - "{ <%* tR += title %>"
 status: todo
 <% "---" %>
 
