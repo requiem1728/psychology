@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home/Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
             "id": "4dc3743dc5721f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пропедевтика_психіатрії.md",
+                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пропедевтика_психіатрії"
+              "title": "конспекти по книжці Екзистенційна психотерапія"
             }
           }
         ]
@@ -155,14 +141,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4dc3743dc5721f58",
   "lastOpenFiles": [
-    "Base/courses.md",
-    "Base/books.md",
-    "Base/Пропедевтика_психіатрії.md",
-    "home/Homepage.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Екзистенційна психотерапія.md",
+    "Base/books.md",
+    "home/Homepage.md",
+    "Templates/template.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Пропедевтика_психіатрії.md",
+    "Base/courses.md",
     "Templates/book template.md",
     "Base/Модуль_1.md",
     "Base/Критерії психічного здоров'я.md",
@@ -182,8 +169,7 @@
     "Base/Психоз-невроз.md",
     "Base/Оцінка психічного статусу.md",
     "Base/Невідкладна допомога.md",
-    "Base/Класифікація психічних розладів.md",
-    "The Denial of Death.jpg",
+    "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
     "Files/Pasted image 20241121015010.jpg",
     "Files/The Oxford Handbook of Clinical Psychology 1.jpg",

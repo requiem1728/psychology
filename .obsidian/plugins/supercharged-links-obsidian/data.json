@@ -1,7 +1,7 @@
 {
   "targetAttributes": [
     "type",
-    "cssclass"
+    "cssclasses"
   ],
   "targetTags": true,
   "getFromInlineField": true,
@@ -32,6 +32,18 @@
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "7ea4-b541",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "cssclasses",
+      "value": "dashboard",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "7b64-88fc",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,
