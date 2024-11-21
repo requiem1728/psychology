@@ -8,10 +8,10 @@ cssclasses:
 _______________________________
 - 👁‍🗨content
 	- 📺youtube
-	- 👨‍🏫[[courses]]
+	- [[courses]]
 	-  📰articles
 - 👁‍🗨content
-	- 📘[[books]]
+	- [[books]]
 	- 🎬movies
 
 
