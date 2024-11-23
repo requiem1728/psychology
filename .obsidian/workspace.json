@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1156f96166ed67bf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "49b97c0db21975a2",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,8 +128,8 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
@@ -148,12 +137,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "49b97c0db21975a2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
-    "Base/Страх смерті як кінцева даність та головний страх людини.md",
     "home/Homepage.md",
     "Base/Екзистенційна психотерапія.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Опис екзистенційної психології та її вплив на людину.md",
     "Files/Ирвин Ялом - Экзистенциальная психотерапия (1999, Класс) - libgen.li.pdf",
     "Base/books.md",
     "Base/Класифікація розладів мислення.md",
