@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,15 +153,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f15789d868f1dc85",
   "lastOpenFiles": [
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/books.md",
     "Base/The Denial of Death.md",
     "Base/Екзистенційна психотерапія.md",
     "home/Homepage.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Уявлення дітей про смерть.md",
     "Base/Смерть та психотерапія.md",
     "Base/Смерть та психопатологія.md",
