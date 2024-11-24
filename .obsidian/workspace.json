@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Взаємозв'язок тривоги і смерті.md",
+                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Взаємозв'язок тривоги і смерті"
+              "title": "конспекти по книжці Екзистенційна психотерапія"
+            }
+          },
+          {
+            "id": "f15789d868f1dc85",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -66,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#розлад_мислення",
+                "query": "tag:#existential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +97,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,12 +155,13 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
-    "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
-    "home/Homepage.md",
-    "Base/Уявлення дітей про смерть.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
+    "Base/books.md",
+    "Base/The Denial of Death.md",
+    "Base/Екзистенційна психотерапія.md",
+    "home/Homepage.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Уявлення дітей про смерть.md",
     "Base/Смерть та психотерапія.md",
     "Base/Смерть та психопатологія.md",
     "Base/Пропедевтика_психіатрії.md",
@@ -169,7 +181,6 @@
     "Base/Критерії психічного здоров'я.md",
     "Base/Класифікація порушень свідомості.md",
     "Base/Властивості свідомості.md",
-    "Base/Складові свідомості.md",
     "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
     "Files/Pasted image 20241121015010.jpg",

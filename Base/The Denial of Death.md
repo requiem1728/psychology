@@ -12,7 +12,7 @@ recommendedby: Insta video
 ---
 tags ::
 prev :: 📚 [[books | back to library]]
-category :: 🕐🌎 #existential
+category :: 🕐🌎 #existential ☠ #death
 author ::👨 [[Ernest Becker]]
 children ::
 
