@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Провокативна терапія.md",
+                "file": "Base/Пропедевтика_психіатрії.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Провокативна терапія"
+              "title": "Пропедевтика_психіатрії"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/courses.md",
+                "file": "Провокативна терапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "courses"
+              "title": "Провокативна терапія"
             }
           }
         ],
