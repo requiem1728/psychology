@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пропедевтика_психіатрії.md",
+                "file": "Base/courses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пропедевтика_психіатрії"
+              "title": "courses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +156,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3af27cdbe2b24d29",
+  "active": "b6a56c17039a34a6",
   "lastOpenFiles": [
     "Base/Пропедевтика_психіатрії.md",
-    "Base/courses.md",
     "Провокативна терапія.md",
+    "Base/courses.md",
     "home/Homepage.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
