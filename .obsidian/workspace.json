@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3af27cdbe2b24d29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
-                "mode": "preview",
+                "file": "Провокативна терапія.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Провокативна терапія"
+            }
+          },
+          {
+            "id": "b6a56c17039a34a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Пропедевтика_психіатрії.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пропедевтика_психіатрії"
             }
           }
         ]
@@ -87,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,20 +155,21 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3af27cdbe2b24d29",
   "lastOpenFiles": [
+    "Base/Пропедевтика_психіатрії.md",
+    "Base/courses.md",
+    "Провокативна терапія.md",
+    "home/Homepage.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/books.md",
     "Base/The Denial of Death.md",
     "Base/Екзистенційна психотерапія.md",
-    "home/Homepage.md",
     "Base/Уявлення дітей про смерть.md",
     "Base/Смерть та психотерапія.md",
     "Base/Смерть та психопатологія.md",
-    "Base/Пропедевтика_психіатрії.md",
-    "Base/courses.md",
     "Base/Опис екзистенційної психології та її вплив на людину.md",
     "Files/Ирвин Ялом - Экзистенциальная психотерапия (1999, Класс) - libgen.li.pdf",
     "Base/Класифікація розладів мислення.md",
@@ -169,8 +183,6 @@
     "Base/Психопатологічні синдроми.md",
     "Base/Госпіталізація.md",
     "Base/Критерії психічного здоров'я.md",
-    "Base/Класифікація порушень свідомості.md",
-    "Base/Властивості свідомості.md",
     "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
     "Files/Pasted image 20241121015010.jpg",
