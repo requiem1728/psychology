@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "Base/Модуль_2_anxiety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Модуль_2_anxiety"
+            }
+          },
+          {
+            "id": "5cd5871779f7e3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Модуль_1_anxiety.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Модуль_1_anxiety"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,17 +156,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5cd5871779f7e3df",
   "lastOpenFiles": [
-    "home/Homepage.md",
-    "Base/Турбота про себе.md",
-    "Base/ППД; протокол РАПІД.md",
-    "Base/Диспозиція.md",
+    "Base/Модуль_2_anxiety.md",
+    "Base/Модуль_1_anxiety.md",
+    "Base/Psychology of anxiety and substance abuse.md",
     "Base/courses.md",
+    "home/Homepage.md",
+    "Base/Рефлексивне слухання і рапорт.md",
+    "Base/ППД; протокол РАПІД.md",
+    "Base/Турбота про себе.md",
+    "Base/Диспозиція.md",
     "Base/Інтервенція.md",
     "Base/Пріоритезація.md",
     "Base/Аналіз потреб.md",
-    "Base/Рефлексивне слухання і рапорт.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_1.md",
     "Base/Госпіталізація.md",
@@ -166,9 +184,6 @@
     "Base/books.md",
     "Base/The Denial of Death.md",
     "Base/Екзистенційна психотерапія.md",
-    "Base/Уявлення дітей про смерть.md",
-    "Base/Смерть та психотерапія.md",
-    "Base/Смерть та психопатологія.md",
     "Files/Ирвин Ялом - Экзистенциальная психотерапия (1999, Класс) - libgen.li.pdf",
     "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
