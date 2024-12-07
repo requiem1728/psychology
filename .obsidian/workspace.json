@@ -35,8 +35,7 @@
               "title": "Модуль_1_anxiety"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +155,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5cd5871779f7e3df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Модуль_2_anxiety.md",
     "Base/Модуль_1_anxiety.md",
+    "Base/Модуль_2_anxiety.md",
     "Base/Psychology of anxiety and substance abuse.md",
     "Base/courses.md",
     "home/Homepage.md",
