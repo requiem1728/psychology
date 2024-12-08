@@ -205,3 +205,19 @@ Although it’s unethical to create phobias in psychological research, researche
 ## Cultural Issues
 
 As with other disorders, the diagnosis of specific phobia is influenced by cultural issues. A diagnosis of phobia should not be made in areas where specific objects or situations are feared by most people unless that fear is extreme and impairs daily functioning (WHO, 2019). The prevalence of certain phobias varies across countries based, in part, on the extent to which individuals in a culture have experience with a potentially phobic object or situation. The fear of flying, for example, is three times higher in higher income than lower income countries, owing to the fact that individuals in higher income countries are more likely to have the ability to travel by air (Wardenaar et al., 2017).
+
+# 📗 Конспект (скорочений варіант)
+
+## Learning objective: Discuss the diagnostic criteria, prevalence, contributing factors, and cultural influences for each of the disorders that involve anxiety.
+
+1. Diagnostic criteria: Though the diagnostic criteria for each disorder vary, they all involve the experience of anxiety that is more extreme than would be expected by societal standards. In addition, the level of anxiety is sufficient to cause distress, potential danger to self or others, and significant impairment in daily life, including difficulty with work, school, family, and friendships.
+    
+2. Prevalence: Anxiety disorders are the most common type of psychological disorder world-wide. Approximately 7% of individuals globally will experience an anxiety disorder sometime in their lives. The global lifetime prevalence of GAD, panic disorder, and specific phobia is 4.5%, 1.7%, and 7%, respectively. Women are approximately twice as likely as men to report experiencing an anxiety disorder.
+    
+3. Contributing factors: Though there may be small differences between disorders, anxiety disorders generally result from a combination of biological and environmental factors. Evidence suggests that there  is a heritable component to some anxiety disorders such that some individuals are biologically predisposed to experience anxiety. In addition, functioning in the areas of the brain known as the fear circuit plays a major role in the experience of anxiety.
+    
+    1. A variety of environmental factors can influence the development of anxiety disorders. Extreme or long-lasting stress can increase the likelihood that an individual will experience anxiety. In addition, classical and operant conditioning can operate to create anxious responses. Finally, cognitive distortions can affect the development of anxiety disorders. The experience of racial discrimination can uniquely impact the experience of anxiety, especially obsessive-compulsive disorder.
+        
+4. Cultural influences: Researchers have found that the experience of anxiety and the development of anxiety disorders differs between Western and non-Western cultures. For some disorders there are significant differences in the experience of anxiety such that in non-Western cultures, individuals experience physical manifestations of anxiety more so than in Western cultures.
+    
+    1. Many cultures also experience anxiety in ways that are culture-specific and clinicians must take cultural factors into account when assessing an individual’s experience of anxiety.
