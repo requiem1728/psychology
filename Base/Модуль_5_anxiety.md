@@ -233,3 +233,42 @@ Technology can be directly integrated with CBT techniques because of their regim
 The benefits of VRET are not restricted to specific phobias. Anna Felnhofer and her colleagues (2019) showed that exposing people with social anxiety to virtual social stress scenarios, such as ordering a drink from a waiter who subsequently brings the wrong drink, creates both the psychological and physiological anxiety reactions present in the real-world versions of these social stress scenarios. Because VRET is so effective at creating real-world anxieties, it is only a matter of time before therapists will have VRET setups that will allow them to expose patients to complex social scenarios in their office—something that was simply not possible previously. 
 
 Modern technology can also be leveraged to help people retrain their focus of attention away from anxiety-producing stimuli. In one example, the **attention bias modification (ABM) task**, patients are shown anxiety-evoking stimuli alongside non-anxiety evoking stimuli and, over repeated trials, are trained to pay more attention to the non-anxiety evoking stimuli. This treatment reduces the power of the anxiety-evoking stimuli to capture their attention, thereby reducing the patient’s overall level of anxiety (Mogg et al., 2017). The theoretical foundation that underlies this treatment has been known for decades, but it’s only recently that researchers (Dennis & O’Toole, 2014) have created gamified mobile apps that have transformed this technique from one that was only available during a therapy session to one that could be used and practiced by people wherever and whenever they want. Who knew that video games can treat anxiety?!
+
+# 📗 Конспект (скорочений варіант)
+
+## Learning objective: Discuss the diagnostic criteria, prevalence, contributing factors, and cultural influences for each of the disorders that involve anxiety.
+
+1. Diagnostic criteria: Though the diagnostic criteria for each disorder vary, they all involve the experience of anxiety that is more extreme than would be expected by societal standards. In addition, the level of anxiety is sufficient to cause distress, potential danger to self or others, and significant impairment in daily life, including difficulty with work, school, family, and friendships.
+    
+2. Prevalence: Anxiety disorders are the most common type of psychological disorder world-wide. Approximately 7% of individuals globally will experience an anxiety disorder sometime in their lives. The global lifetime prevalence of social anxiety disorder, and obsessive-compulsive disorder is 4%, and 1.5%, respectively. Women are approximately twice as likely as men to report experiencing an anxiety disorder.
+    
+3. Contributing factors: Though there may be small differences between disorders, anxiety disorders generally result from a combination of biological and environmental factors. Evidence suggests that there  is a heritable component to some anxiety disorders such that some individuals are biologically predisposed to experience anxiety. In addition, functioning in the areas of the brain known as the fear circuit plays a major role in the experience of anxiety.
+    
+    1. A variety of environmental factors can influence the development of anxiety disorders. Extreme or long-lasting stress can increase the likelihood that an individual will experience anxiety. In addition, classical and operant conditioning can operate to create anxious responses. Finally, cognitive distortions can affect the development of anxiety disorders. The experience of racial discrimination can uniquely impact the experience of anxiety, especially obsessive-compulsive disorder.
+        
+4. Cultural influences: Researchers have found that the experience of anxiety and the development of anxiety disorders in Western and non-Western cultures. For some disorders there are significant differences in the experience of anxiety such that in non-Western cultures, individuals experience physical manifestations of anxiety more so than in Western cultures.
+    
+    1. Many cultures also experience anxiety in ways that are culture-specific and clinicians must take cultural factors into account when assessing an individual’s experience of anxiety.
+        
+
+## Learning objective: Describe the primary treatments for disorders that involve anxiety.  
+
+1. Two categories of drug therapies have been shown to be effective at decreasing the severity of symptoms in anxiety disorders: **anxiolytic medications** and serotonin-based antidepressants. Anxiolytic medications, also called anti-anxiety medications, attempt to directly lower people’s anxiety, often by mildly sedating them.
+    
+    1. **Selective serotonin reuptake inhibitors (SSRIs)** are effective because serotonin plays an important role in the activation (and perhaps hyperactivation) of the brain’s fear circuit. SSRIs inhibit the reuptake of serotonin in the neurons’ synapses, thus increasing the level of serotonin in the brain. This works to reduce anxiety symptoms by stanching the hyperactivity in the fear circuit.
+        
+2. **Cognitive behavioral therapy (CBT)** seeks to teach the patient thought-based and behavior-based coping skills that will help them decrease the anxiety that they are experiencing.
+    
+    1. **Exposure therapy** involves placing patients in situations where they are exposed to stimuli that evoke their anxiety. This exposure helps both by giving patients the opportunity to practice successfully coping with their feared stimuli and by helping them to realize that, despite their anxiety, the negative outcome they feared did not occur.
+        
+    2. One type of exposure therapy that has been shown to be especially helpful when treating specific phobias is **systematic desensitization**. In systematic desensitization, patients are taught anxiety management techniques and then gradually exposed to mild versions of their feared object while practicing relaxation techniques.
+        
+
+## Learning objective: Explain how technologies such as mobile apps and virtual reality can aid in treating anxiety disorders.
+
+1. Technology can be directly integrated with CBT techniques because of their regimented, predictable, skill-based nature.
+    
+2. Modern technology can also be leveraged to help people retrain their focus of attention away from anxiety-producing stimuli. In one example, the **attention bias modification (ABM) task**, patients are shown anxiety-evoking stimuli alongside non-anxiety evoking stimuli and, over repeated trials, are trained to pay more attention to the non-anxiety evoking stimuli.
+    
+
+Now that you’ve finished reviewing these key takeaways, you can go back and look over the material from this module or move on to take the Module Quiz. Remember to use the information you just learned when you study for the quiz. Good luck!

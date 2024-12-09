@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модуль_5_anxiety.md",
+                "file": "Base/Модуль_6_anxiety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модуль_5_anxiety"
+              "title": "Модуль_6_anxiety"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Модуль_1_anxiety"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,11 +155,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e4199f9779d44ca1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Модуль_5_anxiety.md",
     "Base/Модуль_1_anxiety.md",
+    "Base/Модуль_6_anxiety.md",
     "Base/Psychology of anxiety and substance abuse.md",
+    "Base/Модуль_5_anxiety.md",
     "Base/courses.md",
     "home/Homepage.md",
     "Base/Модуль_4_anxiety.md",
@@ -183,7 +183,6 @@
     "Base/Провокативна терапія.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
-    "Base/Взаємозв'язок тривоги і смерті.md",
     "Files/Ирвин Ялом - Экзистенциальная психотерапия (1999, Класс) - libgen.li.pdf",
     "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
