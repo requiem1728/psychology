@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "Base/Розлади відчуття.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Розлади відчуття"
+            }
+          },
+          {
+            "id": "375bb4e5518beec3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -66,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#existential",
+                "query": "tag:#ппд",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +97,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,15 +154,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/Модуль_1.md",
+    "Base/Розлади відчуття.md",
     "Base/Модуль_1_anxiety.md",
     "Base/Psychology of anxiety and substance abuse.md",
+    "Base/courses.md",
+    "Base/Психоз-невроз.md",
+    "Base/Пропедевтика_психіатрії.md",
+    "Base/Психопатологічні синдроми.md",
+    "Base/Симптоми.md",
+    "home/Homepage.md",
     "Base/Модуль_6_anxiety.md",
     "Base/Модуль_5_anxiety.md",
     "Base/Модуль_4_anxiety.md",
     "Base/Модуль_3_anxiety.md",
     "Base/Модуль_2_anxiety.md",
-    "Base/courses.md",
-    "home/Homepage.md",
     "Base/Рефлексивне слухання і рапорт.md",
     "Base/ППД; протокол РАПІД.md",
     "Base/Турбота про себе.md",
@@ -159,16 +176,10 @@
     "Base/Інтервенція.md",
     "Base/Пріоритезація.md",
     "Base/Аналіз потреб.md",
-    "Base/Пропедевтика_психіатрії.md",
-    "Base/Модуль_1.md",
     "Base/Госпіталізація.md",
     "Base/Вступ до ппд.md",
     "Base/Тиждень_ППД_1.md",
     "Base/👩‍🏫Тиждень_ППД_1.md",
-    "Base/👨‍🏫Тиждень_ППД_1.md",
-    "Base/Провокативна терапія.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
-    "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Files/Ирвин Ялом - Экзистенциальная психотерапия (1999, Класс) - libgen.li.pdf",
     "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
