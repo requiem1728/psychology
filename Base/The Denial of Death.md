@@ -14,7 +14,7 @@ tags ::
 prev :: 📚 [[books | back to library]]
 category :: 🕐🌎 #existential ☠ #death
 author ::👨 [[Ernest Becker]]
-children :: 📘[[конспект по книжці ]]
+children :: 📘[[конспект по книжці Заперечення смерті]]
 
 ---
 PDF
