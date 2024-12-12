@@ -14,7 +14,7 @@ tags ::
 prev :: 📚 [[books | back to library]]
 category :: 🕐🌎 #existential ☠ #death
 author ::👨 [[Ernest Becker]]
-children ::
+children :: 📘[[конспект по книжці ]]
 
 ---
 PDF
