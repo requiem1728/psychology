@@ -8,8 +8,8 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director:: 
-  - "[[Shôhei Imamura]]"
+director:: - "[[Shôhei Imamura]]"
+  
 children::
 ___
 ![cover|150](https://m.media-amazon.com/images/M/MV5BMWRlMDA2NTUtZjAyZS00OWJkLWI5MWQtNmQxNDFiNTc2ZGI2XkEyXkFqcGc@._V1_SX300.jpg)
