@@ -48,6 +48,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "movie",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0ee4-7557",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
