@@ -12,7 +12,7 @@ _______________________________
 	-  📰articles
 - 👁‍🗨content
 	- [[books]]
-	- 🎬movies
+	- 🎬[[movies]]
 
 
 ---
@@ -31,3 +31,12 @@ type command
 action Book Search: Create new book note
 templater true 
 ```
+
+```button
+name 🎬 movie
+type command
+action QuickAdd: add movie
+templater true 
+```
+
+

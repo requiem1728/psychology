@@ -1,10 +1,61 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "15373ede-1fca-4978-81d6-44e86c2b981f",
+      "name": "add movie",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e46de71a-1ec8-4acb-8781-e72cf4fc8730"
+    }
+  ],
   "macros": [
     {
       "name": "create film",
       "id": "e46de71a-1ec8-4acb-8781-e72cf4fc8730",
-      "commands": [],
+      "commands": [
+        {
+          "name": "movies",
+          "type": "UserScript",
+          "id": "adfe3aac-bf82-476f-9466-c52c5d6223e3",
+          "path": "Scripts/movies.js",
+          "settings": {
+            "OMDb API Key": "1ec95f65"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "732e9f8f-a523-4f52-8dec-c70c5a5b12aa",
+          "choice": {
+            "id": "bdd35b41-4199-4dc9-b14a-1f5d23a5c825",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "Templates/movie template.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
       "runOnStartup": false
     }
   ],
