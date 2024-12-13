@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% When Will I Be Loved"
 cover: https://m.media-amazon.com/images/M/MV5BNTkyOThhMTUtNjkwMi00ZTAzLWIyYzktNjViODg1YzE2MTEyXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
