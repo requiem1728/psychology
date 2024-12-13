@@ -4,7 +4,7 @@ if (title.startsWith("Untitled")) {
 title = await tp.system.prompt("Title");
 }
 await tp.file.rename(title)
--%>---
+-%>
 type: movie
 aliases:
 - - "% <%* tR += title %>"
@@ -13,8 +13,8 @@ status: todo
 recommendedby:
 <% "---" %>
 ___tags:: prev:: [[movies|back to library]]
-category::
-author:: {{VALUE:directorLink}}
+genre::
+director:: {{VALUE:directorLink}}
 children::
 ___
 ![cover|150]({{VALUE:Poster}})
