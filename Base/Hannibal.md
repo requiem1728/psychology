@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Hannibal"
 cover: https://m.media-amazon.com/images/M/MV5BYTk3NGUzOWYtNTU5Yy00ZDNjLTg1YzItZDlmNWRhMmVlZTMxXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

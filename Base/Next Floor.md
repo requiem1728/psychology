@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Next Floor"
 cover: https://m.media-amazon.com/images/M/MV5BMTY0MjU0MzQ4MV5BMl5BanBnXkFtZTcwODQ2ODMzNA@@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

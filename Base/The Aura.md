@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% The Aura"
 cover: https://m.media-amazon.com/images/M/MV5BMTI1MzYyMjU3Ml5BMl5BanBnXkFtZTcwMjU5NDkzMQ@@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

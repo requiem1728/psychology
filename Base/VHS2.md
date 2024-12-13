@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% VHS2"
 cover: https://m.media-amazon.com/images/M/MV5BODg4OTMxNDAxMV5BMl5BanBnXkFtZTcwMjM4ODQ0OQ@@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

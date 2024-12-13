@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% VHS99"
 cover: https://m.media-amazon.com/images/M/MV5BNDUxYTg3MzgtNGRhMy00NGQ1LWJiM2UtOTQ5MWU3ZGMxMTYxXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

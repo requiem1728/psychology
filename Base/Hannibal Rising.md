@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Hannibal Rising"
 cover: https://m.media-amazon.com/images/M/MV5BMTIzMTA0NTM4NF5BMl5BanBnXkFtZTcwNjY3ODM0MQ@@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
