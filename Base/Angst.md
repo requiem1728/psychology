@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Angst"
 cover: https://m.media-amazon.com/images/M/MV5BYWQ0ZGM4NTYtNDE5ZC00Yjk4LWIyMWUtYTM3MWRhNjJkMzIyXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
