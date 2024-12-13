@@ -8,8 +8,8 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director:: 
-  - "[[Robert Eggers]]"
+director::   - "[[Robert Eggers]]"
+
 children::
 ___
 ![cover|150](https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_SX300.jpg)

@@ -8,8 +8,8 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director::   - "[[Matt Bettinelli-Olpin]]" "[[David Bruckner]]"
-  - "[[Tyler Gillett]]"
+director::   - "[[Matt Bettinelli-Olpin]]" "[[David Bruckner]]" "[[Tyler Gillett]]"
+  
 
   
 children::
