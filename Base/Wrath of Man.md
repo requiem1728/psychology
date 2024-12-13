@@ -8,8 +8,8 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director:: 
-  - "[[Guy Ritchie]]"
+director:: - "[[Guy Ritchie]]"
+
 children::
 ___
 ![cover|150](https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_SX300.jpg)

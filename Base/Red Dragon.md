@@ -8,8 +8,8 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director:: 
-  - "[[Brett Ratner]]"
+director:: - "[[Brett Ratner]]"
+  
 children::
 ___
 ![cover|150](https://m.media-amazon.com/images/M/MV5BNmI0MDEwZTktMzdjMy00NDhmLWI2YjMtNGI4YjY0NDc3MDZkXkEyXkFqcGc@._V1_SX300.jpg)
