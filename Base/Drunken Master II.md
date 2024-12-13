@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Drunken Master II"
 cover: https://m.media-amazon.com/images/M/MV5BNzBlMGZlZTctODdmYi00N2ZkLThkYjItZDdiNTQzNWIxMjAzXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

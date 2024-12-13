@@ -8,7 +8,7 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director::   -"[[Ti West]]"
+director::   - "[[Ti West]]"
 
 children::
 ___

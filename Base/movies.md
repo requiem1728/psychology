@@ -28,7 +28,7 @@ WHERE type = "movie" AND status = "todo"
 ```dataview
 TABLE WITHOUT ID	
 ("![|80](" + cover + ")") as "Cover",	file.link AS "Name",	
-author AS "Director",
+director AS "Director",
 category AS "Cathegory"
 FROM !"templates"
 WHERE type = "movie" AND status = "done"

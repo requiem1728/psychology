@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Dogs Dont Wear Pants"
 cover: https://m.media-amazon.com/images/M/MV5BNDBmOWE1NDUtZDIxYS00YWMzLTlmMTUtNWUzMTFlNmZiODhmXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

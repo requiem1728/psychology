@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Drive"
 cover: https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

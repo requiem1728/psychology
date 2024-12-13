@@ -8,7 +8,7 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director::   - "[[Ariel Zeitoun]]" - "[[Julien Seri]]"
+director::   - "[[Ariel Zeitoun]]" "[[Julien Seri]]"
 
 
 children::

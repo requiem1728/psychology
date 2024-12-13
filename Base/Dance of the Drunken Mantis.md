@@ -3,7 +3,7 @@ type: movie
 aliases:
 - - "% Dance of the Drunken Mantis"
 cover: https://m.media-amazon.com/images/M/MV5BMmRiODMxZWMtOTQxZS00N2Q5LTliMWYtNmUxYWQ1MzRkYzUyXkEyXkFqcGc@._V1_SX300.jpg
-status: todo
+status: done
 recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]

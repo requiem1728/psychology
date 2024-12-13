@@ -8,8 +8,8 @@ recommendedby:
 ---
 ___tags:: prev:: [[movies|back to library]]
 genre::
-director:: 
-  - "[[Stanley Kubrick]]"
+director:: - "[[Stanley Kubrick]]"
+  
 children::
 ___
 ![cover|150](https://m.media-amazon.com/images/M/MV5BMjFjYzBlOTktMTI2OS00ZWVhLTgxMDUtNzAwODY2NmI3YTAzXkEyXkFqcGc@._V1_SX300.jpg)
