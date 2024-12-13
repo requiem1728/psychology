@@ -1,6 +1,13 @@
 {
   "choices": [],
-  "macros": [],
+  "macros": [
+    {
+      "name": "create film",
+      "id": "e46de71a-1ec8-4acb-8781-e72cf4fc8730",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
