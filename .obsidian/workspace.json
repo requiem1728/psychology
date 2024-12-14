@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
-                "mode": "source",
+                "file": "Base/books.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "конспекти по книжці Екзистенційна психотерапія"
+              "title": "books"
             }
           },
           {
@@ -44,9 +44,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0394be1c4d5a9bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Girl Blood Sport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Girl Blood Sport"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,11 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f4f9fdda63c8c86",
+  "active": "0394be1c4d5a9bb9",
   "lastOpenFiles": [
+    "Base/movies.md",
+    "home/Homepage.md",
+    "Girl Blood Sport.md",
+    "Base/books.md",
+    "Base/Екзистенційна психотерапія.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/When Will I Be Loved.md",
     "Templates/movie template.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Основні постулати стосовно смерті.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
@@ -221,9 +240,6 @@
     "Base/Екзистенційна динаміка конфлікту.md",
     "Base/Психоаналітична динаміка конфлікту.md",
     "Base/Опис екзистенційної терапії.md",
-    "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
-    "home/Homepage.md",
     "Templates/template.md",
     "Untitled.canvas",
     "Base/courses.md",
@@ -233,12 +249,10 @@
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "Excalidraw",
     "Base/Уявлення дітей про смерть.md",
-    "Base/movies.md",
     "Base/Valerie and Her Week of Wonders.md",
     "Base/Woo-Ping Yuen.md",
     "Base/Barbie.md",
     "Base/American Psycho.md",
-    "Base/Midsommar.md",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
     "Files/Escape from Evil.jpg",

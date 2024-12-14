@@ -3,9 +3,6 @@ type: book
 aliases:
   - '"&"'
 ---
-# books
-
-
 %%cssClass: cards%%
 ## In progress
 **status:** ==wip== *(work in progress)*
