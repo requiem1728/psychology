@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Смерть та психопатологія.md",
+                "file": "home/Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Смерть та психопатологія"
-            }
-          },
-          {
-            "id": "cad88eb3a9ebc9d2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,8 +146,8 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -167,8 +156,8 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -191,11 +180,10 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cad88eb3a9ebc9d2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Base/Смерть та психопатологія.md",
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
