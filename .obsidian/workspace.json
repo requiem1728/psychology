@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Опис екзистенційної психології та її вплив на людину.md",
+                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Опис екзистенційної психології та її вплив на людину"
+              "title": "конспекти по книжці Екзистенційна психотерапія"
             }
           },
           {
@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Екзистенційна динаміка конфлікту.md",
+                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Екзистенційна динаміка конфлікту"
+              "title": "конспекти по книжці Екзистенційна психотерапія"
+            }
+          },
+          {
+            "id": "0f4f9fdda63c8c86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,11 +208,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8e8078407369ba0",
+  "active": "0f4f9fdda63c8c86",
   "lastOpenFiles": [
-    "Base/Опис екзистенційної психології та її вплив на людину.md",
-    "Base/Екзистенційна динаміка конфлікту.md",
+    "Base/When Will I Be Loved.md",
+    "Templates/movie template.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Страх смерті як основний екзистенційний конфлікт.md",
+    "Base/Основні постулати стосовно смерті.md",
+    "Base/Взаємозв'язок тривоги і смерті.md",
+    "Base/Опис екзистенційної психології та її вплив на людину.md",
+    "Base/5 постулатів Джеймса Бьюдженталя.md",
+    "Base/Екзистенційна динаміка конфлікту.md",
     "Base/Психоаналітична динаміка конфлікту.md",
     "Base/Опис екзистенційної терапії.md",
     "Base/Екзистенційна психотерапія.md",
@@ -210,7 +226,6 @@
     "home/Homepage.md",
     "Templates/template.md",
     "Untitled.canvas",
-    "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/courses.md",
     "Base/Пропедевтика_психіатрії.md",
     "Files/wallhaven-g8d3v3.jpg",
@@ -218,17 +233,12 @@
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "Excalidraw",
     "Base/Уявлення дітей про смерть.md",
-    "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/movies.md",
     "Base/Valerie and Her Week of Wonders.md",
     "Base/Woo-Ping Yuen.md",
     "Base/Barbie.md",
     "Base/American Psycho.md",
     "Base/Midsommar.md",
-    "Base/Dance of the Drunken Mantis.md",
-    "Base/Climax.md",
-    "Base/Bronson.md",
-    "Base/Bloodsport.md",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
     "Files/Escape from Evil.jpg",
