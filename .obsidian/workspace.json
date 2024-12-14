@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "8460a6958f1c5629",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,10 +141,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8460a6958f1c5629",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "home/Homepage.md",
     "Base/movies.md",
+    "home/Homepage.md",
     "Base/Valerie and Her Week of Wonders.md",
     "Base/Woo-Ping Yuen.md",
     "Base/Barbie.md",
