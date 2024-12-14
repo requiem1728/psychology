@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Смерть та психопатологія"
             }
+          },
+          {
+            "id": "7b6a9ce6cdca91ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-14 07.03.12.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +197,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7b6a9ce6cdca91ae",
   "lastOpenFiles": [
-    "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Смерть та психопатологія.md",
+    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
+    "Excalidraw",
+    "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Уявлення дітей про смерть.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
@@ -211,7 +226,6 @@
     "Base/Backstabbing for Beginners.md",
     "Base/Arrival.md",
     "Base/Dogs Dont Wear Pants.md",
-    "Base/Dogville.md",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
     "Files/Escape from Evil.jpg",
@@ -231,7 +245,6 @@
     "projects/courses",
     "projects/work",
     "projects",
-    "home",
     "Untitled.canvas",
     "psychology.canvas"
   ]
