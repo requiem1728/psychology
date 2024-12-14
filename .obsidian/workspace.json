@@ -22,18 +22,17 @@
             }
           },
           {
-            "id": "7b6a9ce6cdca91ae",
+            "id": "cad88eb3a9ebc9d2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-14 07.03.12.excalidraw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +195,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cad88eb3a9ebc9d2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "Base/Смерть та психопатологія.md",
+    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "Excalidraw",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Уявлення дітей про смерть.md",
