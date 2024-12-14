@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "Base/Пропедевтика_психіатрії.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Пропедевтика_психіатрії"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/courses.md",
+    "home/Homepage.md",
+    "Files/wallhaven-g8d3v3.jpg",
     "Base/Смерть та психопатологія.md",
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "Excalidraw",
@@ -194,7 +197,6 @@
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Екзистенційна психотерапія.md",
     "Base/books.md",
-    "home/Homepage.md",
     "Base/movies.md",
     "Base/Valerie and Her Week of Wonders.md",
     "Base/Woo-Ping Yuen.md",
@@ -211,7 +213,6 @@
     "Base/Barbarian.md",
     "Base/Backstabbing for Beginners.md",
     "Base/Arrival.md",
-    "Base/Dogs Dont Wear Pants.md",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
     "Files/Escape from Evil.jpg",
@@ -223,7 +224,6 @@
     "Files/The Oxford Handbook of Clinical Psychology 1.jpg",
     "Files/The Oxford Handbook of Clinical Psychology.jpg",
     "Files/The Oxford Handbook of Clinical Psychology.jpg",
-    "/The Oxford Handbook of Clinical Psychology.jpg",
     "projects/movies",
     "projects/youtube",
     "projects/articles",

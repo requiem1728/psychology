@@ -1,6 +1,8 @@
 ---
 cssclasses:
   - dashboard
+banner: "![[wallhaven-g8d3v3.jpg]]"
+banner_y: 0.476
 ---
 # Homepage
 
