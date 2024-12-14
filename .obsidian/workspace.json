@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пропедевтика_психіатрії.md",
-                "mode": "source",
+                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пропедевтика_психіатрії"
+              "title": "конспекти по книжці Екзистенційна психотерапія"
             }
           }
         ]
@@ -183,20 +183,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0fa698eb179cdf9",
   "lastOpenFiles": [
-    "Base/courses.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Untitled.canvas",
+    "Base/Страх смерті як основний екзистенційний конфлікт.md",
+    "Base/Екзистенційна психотерапія.md",
+    "Base/books.md",
     "home/Homepage.md",
+    "Base/courses.md",
+    "Base/Пропедевтика_психіатрії.md",
     "Files/wallhaven-g8d3v3.jpg",
     "Base/Смерть та психопатологія.md",
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "Excalidraw",
-    "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Уявлення дітей про смерть.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
-    "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
     "Base/movies.md",
     "Base/Valerie and Her Week of Wonders.md",
     "Base/Woo-Ping Yuen.md",
@@ -211,8 +213,6 @@
     "Base/Beyond the Black Rainbow.md",
     "Base/Batman Begins.md",
     "Base/Barbarian.md",
-    "Base/Backstabbing for Beginners.md",
-    "Base/Arrival.md",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
     "Files/Escape from Evil.jpg",
@@ -231,7 +231,6 @@
     "projects/courses",
     "projects/work",
     "projects",
-    "Untitled.canvas",
     "psychology.canvas"
   ]
 }
