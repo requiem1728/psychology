@@ -13,27 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/5 постулатів Джеймса Бьюдженталя.md",
+                "file": "Base/Психоаналітична динаміка конфлікту.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 постулатів Джеймса Бьюдженталя"
+              "title": "Психоаналітична динаміка конфлікту"
             }
           },
           {
-            "id": "48adea4539d45ae6",
+            "id": "12bea18b1f04ebd4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md"
+                "file": "Base/конспекти по книжці Екзистенційна психотерапія.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-14 07.03.12.excalidraw"
+              "icon": "lucide-file",
+              "title": "конспекти по книжці Екзистенційна психотерапія"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,28 +159,29 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "12bea18b1f04ebd4",
   "lastOpenFiles": [
-    "Base/Опис екзистенційної терапії.md",
-    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Екзистенційна психотерапія.md",
+    "Base/Irvin D. Yalom.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Психоаналітична динаміка конфлікту.md",
+    "Base/Опис екзистенційної терапії.md",
+    "Base/Екзистенційна динаміка конфлікту.md",
     "Base/books.md",
     "home/Homepage.md",
+    "Base/movies.md",
+    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
+    "Base/5 постулатів Джеймса Бьюдженталя.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_1.md",
     "Base/courses.md",
     "Base/Основні постулати стосовно смерті.md",
-    "Base/movies.md",
     "Base/Girl Blood Sport.md",
     "Base/When Will I Be Loved.md",
     "Templates/movie template.md",
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/Опис екзистенційної психології та її вплив на людину.md",
-    "Base/5 постулатів Джеймса Бьюдженталя.md",
-    "Base/Екзистенційна динаміка конфлікту.md",
-    "Base/Психоаналітична динаміка конфлікту.md",
     "Templates/template.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
@@ -185,7 +190,6 @@
     "Base/Уявлення дітей про смерть.md",
     "Base/Valerie and Her Week of Wonders.md",
     "Base/Woo-Ping Yuen.md",
-    "Base/Barbie.md",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
     "Files/Escape from Evil.jpg",
