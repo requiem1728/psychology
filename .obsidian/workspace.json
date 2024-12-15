@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "Base/Екзистенційна психотерапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Екзистенційна психотерапія"
             }
           }
         ]
@@ -144,24 +144,44 @@
             "id": "bcd29dc0200e2198",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "New tab"
             }
           },
           {
             "id": "42d652617a502c76",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "40f74e55ea1f3950",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "a07e446d1f6ccd56",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -180,19 +200,20 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Екзистенційна психотерапія.md",
+    "Base/books.md",
+    "home/Homepage.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_1.md",
     "Base/courses.md",
-    "home/Homepage.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Основні постулати стосовно смерті.md",
-    "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
     "Base/movies.md",
     "Girl Blood Sport.md",
     "Base/When Will I Be Loved.md",
