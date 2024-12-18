@@ -25,13 +25,18 @@
             "id": "8ba80f961ebb23bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Base/movies.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "movies"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +177,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8ba80f961ebb23bc",
   "lastOpenFiles": [
+    "Base/Midsommar 1.md",
     "Base/movies.md",
-    "Base/Terrifier 3.md",
     "home/Homepage.md",
+    "Base/Gaslight.md",
+    "Base/Terrifier 3.md",
     "Base/Смерть та психотерапія.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Екзистенційна психотерапія.md",
@@ -198,10 +205,8 @@
     "Base/Страх смерті як основний екзистенційний конфлікт.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/Опис екзистенційної психології та її вплив на людину.md",
-    "Templates/template.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
-    "Base/Смерть та психопатологія.md",
     "Excalidraw",
     "Scripts",
     "Files/Pasted image 20240926195735.png",
