@@ -11,16 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "17f96a448009cb93",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "home/Homepage.md",
@@ -31,8 +21,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,34 +162,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17f96a448009cb93",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
+    "Base/Частина 2. Страх смерті як основний екзистенційний конфлікт.md",
+    "Base/Частина 1. Екзистенційна психологія та її вплив на людину.md",
+    "Base/Екзистенційна психотерапія.md",
+    "Base/books.md",
+    "Base/movies.md",
+    "Base/Brüno.md",
     "home/Homepage.md",
+    "Base/Girl Blood Sport.md",
+    "Base/Rush Hour.md",
+    "Base/Money Heist.md",
+    "Base/House of Paper.md",
+    "Base/King Arthur Legend of the Sword.md",
+    "Base/Розлади сприймання.md",
     "Base/Модуль 4.md",
     "Base/Модуль_1.md",
-    "Base/Розлади сприймання.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
     "Base/Модуль_2.md",
     "Base/Модуль 3.md",
     "Base/Смерть та психотерапія.md",
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Взаємозв'язок тривоги і смерті.md",
     "Base/Основні постулати стосовно смерті.md",
-    "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
-    "Base/movies.md",
     "Base/Midsommar 1.md",
     "Base/Gaslight.md",
     "Base/Terrifier 3.md",
-    "excalibrain.md",
-    "Base/Опис екзистенційної терапії.md",
-    "Base/Irvin D. Yalom.md",
-    "Base/Психоаналітична динаміка конфлікту.md",
-    "Base/Екзистенційна динаміка конфлікту.md",
-    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
-    "Base/5 постулатів Джеймса Бьюдженталя.md",
-    "Base/Girl Blood Sport.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
     "Excalidraw",
