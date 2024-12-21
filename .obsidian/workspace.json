@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "Base/Смерть та психотерапія.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Смерть та психотерапія"
             }
           }
         ]
@@ -164,14 +164,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Частина 2. Страх смерті як основний екзистенційний конфлікт.md",
+    "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Частина 1. Екзистенційна психологія та її вплив на людину.md",
+    "Base/Смерть та психопатологія.md",
     "Base/Екзистенційна психотерапія.md",
     "Base/books.md",
+    "home/Homepage.md",
     "Base/movies.md",
     "Base/Brüno.md",
-    "home/Homepage.md",
     "Base/Girl Blood Sport.md",
     "Base/Rush Hour.md",
     "Base/Money Heist.md",
@@ -189,7 +190,6 @@
     "Base/Основні постулати стосовно смерті.md",
     "Base/Midsommar 1.md",
     "Base/Gaslight.md",
-    "Base/Terrifier 3.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
     "Excalidraw",
