@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "home/Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/Центральні питання свідомості.md",
     "home/Homepage.md",
     "Base/Частина 3. Екзистенційна свобода, відповідальність і воля.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
@@ -185,7 +190,6 @@
     "Base/courses.md",
     "Base/Модуль_2.md",
     "Base/Модуль 3.md",
-    "Base/Взаємозв'язок тривоги і смерті.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
     "Excalidraw",
