@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "ae677af3c0da9f7b",
             "type": "leaf",
             "state": {
@@ -31,8 +21,7 @@
               "title": "movies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,9 +164,10 @@
   },
   "active": "ae677af3c0da9f7b",
   "lastOpenFiles": [
-    "Base/Dune Part One 1.md",
-    "Base/movies.md",
+    "Base/Beyond the Black Rainbow 1.md",
     "home/Homepage.md",
+    "Base/movies.md",
+    "Base/Dune Part One 1.md",
     "Base/Центральні питання свідомості.md",
     "Base/Частина 3. Екзистенційна свобода, відповідальність і воля.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
@@ -200,7 +190,6 @@
     "Base/Модуль_1.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
-    "Base/Модуль_2.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
     "Excalidraw",
