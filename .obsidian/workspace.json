@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae677af3c0da9f7b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/movies.md",
+                "file": "home/Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "movies"
+              "title": "Homepage"
             }
           }
         ]
@@ -162,13 +162,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae677af3c0da9f7b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Beyond the Black Rainbow 1.md",
     "home/Homepage.md",
-    "Base/movies.md",
-    "Base/Dune Part One 1.md",
+    "Base/The Conscious Mind.md",
+    "Base/books.md",
+    "Files/The Conscious Mind.jpg",
+    "/The Conscious Mind.jpg",
     "Base/Центральні питання свідомості.md",
+    "Base/movies.md",
+    "Base/Beyond the Black Rainbow 1.md",
+    "Base/Dune Part One 1.md",
     "Base/Частина 3. Екзистенційна свобода, відповідальність і воля.md",
     "Base/конспекти по книжці Екзистенційна психотерапія.md",
     "Base/Екзистенційна свобода, відповідальність і воля.md",
@@ -176,7 +180,6 @@
     "Base/Вправи для роботи зі страхом смерті.md",
     "Base/Смерть та психотерапія.md",
     "Base/Екзистенційна психотерапія.md",
-    "Base/books.md",
     "Base/Частина 1. Екзистенційна психологія та її вплив на людину.md",
     "Base/Смерть та психопатологія.md",
     "Base/Brüno.md",
@@ -189,7 +192,6 @@
     "Base/Модуль 4.md",
     "Base/Модуль_1.md",
     "Base/Пропедевтика_психіатрії.md",
-    "Base/courses.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
     "Excalidraw",
@@ -202,8 +204,6 @@
     "/The Denial of Death.jpg",
     "Files/Pasted image 20241121015010.jpg",
     "Files/The Oxford Handbook of Clinical Psychology 1.jpg",
-    "Files/The Oxford Handbook of Clinical Psychology.jpg",
-    "Files/The Oxford Handbook of Clinical Psychology.jpg",
     "projects/movies",
     "projects/youtube",
     "projects/articles",
