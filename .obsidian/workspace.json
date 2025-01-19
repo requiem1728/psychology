@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "802e3c9f8ef74c66",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Класифікація розладів пам'яті.md",
+                "file": "home/Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Класифікація розладів пам'яті"
-            }
-          },
-          {
-            "id": "aa117d53df00af68",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Homepage"
             }
           }
         ]
@@ -172,11 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "802e3c9f8ef74c66",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/Класифікація розладів пам'яті.md",
     "Base/Модуль_1.md",
     "Base/Введення в психіатрію.md",
-    "Base/Класифікація розладів пам'яті.md",
     "Base/Розлади пам'яті.md",
     "Base/Оцінка психічного статусу.md",
     "Base/Симптоми.md",
