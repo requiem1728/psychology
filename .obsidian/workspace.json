@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Класифікація розладів пам'яті.md",
+                "file": "Base/Модуль_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Класифікація розладів пам'яті"
+              "title": "Модуль_1"
             }
           }
         ]
@@ -164,12 +164,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Розлади сприймання.md",
-    "Base/Модуль_1.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
     "home/Homepage.md",
     "Base/Класифікація розладів пам'яті.md",
+    "Base/Розлади сприймання.md",
+    "Base/Модуль_1.md",
     "Base/Введення в психіатрію.md",
     "Base/Розлади пам'яті.md",
     "Base/Оцінка психічного статусу.md",
