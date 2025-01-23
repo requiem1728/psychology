@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Біполярний афективний розлад.md",
+                "file": "Base/Модуль_5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Біполярний афективний розлад"
-            }
-          },
-          {
-            "id": "1d963fb8f304db76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Проходження Бар.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Проходження Бар"
+              "title": "Модуль_5"
             }
           },
           {
@@ -39,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Критерії психічного здоров'я.md",
+                "file": "Base/Маніакальний епізод.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Критерії психічного здоров'я"
+              "title": "Маніакальний епізод"
             }
           },
           {
@@ -57,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5110321044922
+    "width": 200
   },
   "right": {
     "id": "67afd9db2c354731",
@@ -198,25 +187,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "34f50d1ade3177ee",
   "lastOpenFiles": [
-    "Files/Проходження БАР.png",
+    "Base/Афективні розлади (F30-F39).md",
+    "Base/Маніакальний епізод.md",
     "Base/Біполярний афективний розлад.md",
+    "Base/Модуль_5.md",
+    "Base/Пропедевтика_психіатрії.md",
     "Excalidraw/Проходження Бар.md",
     "Excalidraw/Проходження Бар.png",
+    "Base/courses.md",
+    "home/Homepage.md",
     "Base/Критерії психічного здоров'я.md",
+    "Files/Проходження БАР.png",
     "Base/Модуль_1.md",
     "Base/Психоз-невроз.md",
     "Base/Введення в психіатрію.md",
-    "Base/Пропедевтика_психіатрії.md",
-    "Base/courses.md",
-    "home/Homepage.md",
     "Excalidraw/Stress-diathesis model.md",
     "Files/Stress-diathesis model.png",
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "excalibrain.md",
-    "Base/Афективні розлади (F30-F39).md",
-    "Base/Модуль_5.md",
     "Base/Афективні розлади [F30-F39.md",
     "Base/Модуль_2.md",
     "Base/Класифікація розладів емоцій.md",
