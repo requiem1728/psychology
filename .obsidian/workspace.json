@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-23 21.37.04.excalidraw.md"
+                "file": "Excalidraw/Stress-diasthesis model.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-23 21.37.04.excalidraw"
+              "title": "Stress-diasthesis model"
             }
           },
           {
@@ -43,8 +43,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,11 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34f50d1ade3177ee",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Біполярний афективний розлад.md",
-    "Excalidraw/Drawing 2025-01-23 21.37.04.excalidraw.md",
+    "Excalidraw/Stress-diasthesis model.md",
     "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
+    "Base/Біполярний афективний розлад.md",
     "excalibrain.md",
     "Base/Афективні розлади (F30-F39).md",
     "Base/Модуль_5.md",
