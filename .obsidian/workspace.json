@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "34f50d1ade3177ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-23 21.37.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-23 21.37.04.excalidraw"
+            }
+          },
+          {
             "id": "d79058cc732426ff",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,10 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "34f50d1ade3177ee",
   "lastOpenFiles": [
-    "Base/Афективні розлади (F30-F39).md",
     "Base/Біполярний афективний розлад.md",
+    "Excalidraw/Drawing 2025-01-23 21.37.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
+    "excalibrain.md",
+    "Base/Афективні розлади (F30-F39).md",
     "Base/Модуль_5.md",
     "Base/Афективні розлади [F30-F39.md",
     "Base/Пропедевтика_психіатрії.md",
@@ -197,9 +214,6 @@
     "Base/Корсаковський синдром.md",
     "Base/Класифікація розладів пам'яті.md",
     "Base/Розлади відчуття та сприймання.md",
-    "Base/Синдроми порушення сприйняття.md",
-    "Base/Розлади сприймання.md",
-    "Base/Розлади відчуття.md",
     "Files/The Conscious Mind.jpg",
     "/The Conscious Mind.jpg",
     "Untitled.canvas",
