@@ -25,12 +25,14 @@
             "id": "34f50d1ade3177ee",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Stress-diasthesis model.md"
+                "file": "Base/Критерії психічного здоров'я.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Stress-diasthesis model"
+              "icon": "lucide-file",
+              "title": "Критерії психічного здоров'я"
             }
           },
           {
@@ -186,15 +188,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Stress-diasthesis model.md",
-    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
+    "Base/Критерії психічного здоров'я.md",
+    "Base/Модуль_1.md",
+    "Base/Психоз-невроз.md",
+    "Base/Введення в психіатрію.md",
+    "Base/Пропедевтика_психіатрії.md",
+    "Base/courses.md",
+    "home/Homepage.md",
+    "Excalidraw/Stress-diathesis model.md",
     "Base/Біполярний афективний розлад.md",
+    "Files/Stress-diathesis model.png",
+    "Excalidraw/Drawing 2024-12-14 07.03.12.excalidraw.md",
     "excalibrain.md",
     "Base/Афективні розлади (F30-F39).md",
     "Base/Модуль_5.md",
     "Base/Афективні розлади [F30-F39.md",
-    "Base/Пропедевтика_психіатрії.md",
-    "Base/Модуль_1.md",
     "Base/Модуль_2.md",
     "Base/Класифікація розладів емоцій.md",
     "Base/Емоційні розлади.md",
@@ -207,11 +215,6 @@
     "Base/Оцінка психічного статусу.md",
     "Base/Симптоми.md",
     "Base/Госпіталізація.md",
-    "Base/Критерії психічного здоров'я.md",
-    "Base/Психоз-невроз.md",
-    "Base/Корсаковський синдром.md",
-    "Base/Класифікація розладів пам'яті.md",
-    "Base/Розлади відчуття та сприймання.md",
     "Files/The Conscious Mind.jpg",
     "/The Conscious Mind.jpg",
     "Untitled.canvas",
@@ -225,7 +228,6 @@
     "Files/The Denial of Death.jpg",
     "/The Denial of Death.jpg",
     "Files/Pasted image 20241121015010.jpg",
-    "Files/The Oxford Handbook of Clinical Psychology 1.jpg",
     "projects/movies",
     "projects/youtube",
     "projects/articles",
