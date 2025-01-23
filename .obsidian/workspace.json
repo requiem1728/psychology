@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Афективні розлади (F30-F39).md",
+                "file": "Base/Біполярний афективний розлад.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Афективні розлади (F30-F39)"
+              "title": "Біполярний афективний розлад"
             }
           },
           {
@@ -174,8 +174,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Модуль_5.md",
     "Base/Афективні розлади (F30-F39).md",
+    "Base/Біполярний афективний розлад.md",
+    "Base/Модуль_5.md",
     "Base/Афективні розлади [F30-F39.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_1.md",
@@ -199,7 +200,6 @@
     "Base/Синдроми порушення сприйняття.md",
     "Base/Розлади сприймання.md",
     "Base/Розлади відчуття.md",
-    "Base/Введення в психіатрію.md",
     "Files/The Conscious Mind.jpg",
     "/The Conscious Mind.jpg",
     "Untitled.canvas",
