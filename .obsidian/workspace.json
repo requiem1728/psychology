@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home/Homepage.md",
+                "file": "Base/Когнітивні розлади.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Когнітивні розлади"
             }
           }
         ]
@@ -164,13 +164,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Розлади уваги.md",
     "Base/Модуль_1.md",
-    "Base/Класифікація розладів пам'яті.md",
+    "Base/Когнітивні розлади.md",
+    "Base/Розлади уваги.md",
     "Base/Корсаковський синдром.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
     "home/Homepage.md",
+    "Base/Класифікація розладів пам'яті.md",
     "Base/Розлади сприймання.md",
     "Base/Введення в психіатрію.md",
     "Base/Розлади пам'яті.md",
@@ -191,7 +192,6 @@
     "Files/The Conscious Mind.jpg",
     "/The Conscious Mind.jpg",
     "Base/Центральні питання свідомості.md",
-    "Base/movies.md",
     "Untitled.canvas",
     "Files/wallhaven-g8d3v3.jpg",
     "Excalidraw",
