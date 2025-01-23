@@ -57,8 +57,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d963fb8f304db76",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Files/Проходження БАР.png",
     "Base/Біполярний афективний розлад.md",
     "Excalidraw/Проходження Бар.md",
+    "Excalidraw/Проходження Бар.png",
     "Base/Критерії психічного здоров'я.md",
     "Base/Модуль_1.md",
     "Base/Психоз-невроз.md",
@@ -227,7 +228,6 @@
     "Base/Психопатологічні синдроми.md",
     "Base/Невідкладна допомога.md",
     "Base/Оцінка психічного статусу.md",
-    "Base/Симптоми.md",
     "Files/The Conscious Mind.jpg",
     "/The Conscious Mind.jpg",
     "Untitled.canvas",
@@ -239,8 +239,6 @@
     "/Escape from Evil.jpg",
     "Files/Ирвин Ялом - Экзистенциальная психотерапия (1999, Класс) - libgen.li.pdf",
     "Files/The Denial of Death.jpg",
-    "/The Denial of Death.jpg",
-    "Files/Pasted image 20241121015010.jpg",
     "projects/movies",
     "projects/youtube",
     "projects/articles",
