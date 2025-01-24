@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Класифікація порушень свідомості.md",
+                "file": "Base/симптоми_5модуль.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Класифікація порушень свідомості"
+              "title": "симптоми_5модуль"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,20 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bd9cc0fa89426e8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Оцінка психічного статусу.md",
-    "Base/Класифікація порушень свідомості.md",
-    "Base/The Conscious Mind.md",
+    "Base/Модуль_5.md",
+    "Base/симптоми_5модуль.md",
+    "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_2.md",
+    "Base/Класифікація порушень свідомості.md",
+    "Base/Оцінка психічного статусу.md",
+    "Base/The Conscious Mind.md",
     "Base/Властивості свідомості.md",
     "Base/Складові свідомості.md",
     "Base/Розлади cвідомості.md",
     "Base/Розлади мислення.md",
-    "Base/Пропедевтика_психіатрії.md",
     "Base/Розлади вольової сфери.md",
     "Base/Синдроми рухових розладів.md",
-    "Base/Модуль_5.md",
     "Base/Модуль 3.md",
     "Base/Модуль_1.md",
     "Base/Психоорганічний синдром.md",
@@ -200,7 +200,6 @@
     "Base/Афективні розлади (F30-F39).md",
     "Base/Біполярний афективний розлад.md",
     "Base/Депресивний епізод.md",
-    "Base/courses.md",
     "Excalidraw/Проходження Бар.png",
     "Files/Проходження БАР.png",
     "Files/Stress-diathesis model.png",
