@@ -12,7 +12,7 @@ recommendedby: Зварич
 ---
 tags ::
 prev :: 📚 [[books | back to library]]
-category :: #consciousness
+category :: #свідомість 
 author ::👨 [[David J. Chalmers]]
 children ::
 
