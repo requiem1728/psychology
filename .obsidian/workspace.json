@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Маніакальний епізод"
             }
+          },
+          {
+            "id": "9bd9cc0fa89426e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -164,9 +174,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/Маніакальний епізод.md",
     "Base/Афективні розлади (F30-F39).md",
     "Base/Біполярний афективний розлад.md",
-    "Base/Маніакальний епізод.md",
     "Base/Модуль_5.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
