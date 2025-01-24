@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Гіпоманіакальний епізод.md",
+                "file": "Base/Афективні розлади (F30-F39).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гіпоманіакальний епізод"
+              "title": "Афективні розлади (F30-F39)"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Гіпоманіакальний епізод.md",
+                "file": "Base/Маніакальний епізод.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гіпоманіакальний епізод"
+              "title": "Маніакальний епізод"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,15 +176,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bd9cc0fa89426e8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Base/Гіпоманіакальний епізод.md",
+    "Base/Маніакальний епізод.md",
     "Base/Модуль_5.md",
     "Base/Афективні розлади (F30-F39).md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
     "home/Homepage.md",
-    "Base/Гіпоманіакальний епізод.md",
-    "Base/Маніакальний епізод.md",
     "Base/Біполярний афективний розлад.md",
     "Excalidraw/Проходження Бар.md",
     "Excalidraw/Проходження Бар.png",
