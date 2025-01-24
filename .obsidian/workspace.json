@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/симптоми_5модуль.md",
+                "file": "Base/Модуль_5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "симптоми_5модуль"
+              "title": "Модуль_5"
             }
           },
           {
@@ -174,8 +174,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/Модуль_5.md",
     "Base/симптоми_5модуль.md",
+    "Base/Модуль_5.md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_2.md",
     "Base/Класифікація порушень свідомості.md",
