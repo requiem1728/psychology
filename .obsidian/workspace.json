@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Модуль_5.md",
+                "file": "Base/Властивості свідомості.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модуль_5"
+              "title": "Властивості свідомості"
             }
           },
           {
             "id": "9bd9cc0fa89426e8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Base/Маніакальний епізод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Маніакальний епізод"
             }
           }
         ]
@@ -174,11 +178,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Base/симптоми_5модуль.md",
-    "Base/Модуль_5.md",
-    "Base/Пропедевтика_психіатрії.md",
     "Base/Модуль_2.md",
     "Base/Класифікація порушень свідомості.md",
+    "Base/Класифікація розладів мислення.md",
+    "Base/шизофренічне_мислення.md",
+    "Base/Маніакальний епізод.md",
+    "Base/Афективні розлади (F30-F39).md",
+    "Base/Депресивний епізод.md",
+    "Base/Модуль_5.md",
+    "Base/мовні стереотипи.md",
+    "Base/Хворобливі ідеї.md",
+    "Base/Маячні ідеї.md",
+    "Base/Пропедевтика_психіатрії.md",
+    "Base/courses.md",
+    "Base/симптоми_5модуль.md",
     "Base/Оцінка психічного статусу.md",
     "Base/The Conscious Mind.md",
     "Base/Властивості свідомості.md",
@@ -190,16 +203,7 @@
     "Base/Модуль 3.md",
     "Base/Модуль_1.md",
     "Base/Психоорганічний синдром.md",
-    "Base/Маніакальний епізод.md",
     "Base/Модуль 4.md",
-    "Base/Хворобливі ідеї.md",
-    "Base/Маячні ідеї.md",
-    "Base/шизофренічне_мислення.md",
-    "Base/Класифікація розладів мислення.md",
-    "Base/Гіпоманіакальний епізод.md",
-    "Base/Афективні розлади (F30-F39).md",
-    "Base/Біполярний афективний розлад.md",
-    "Base/Депресивний епізод.md",
     "Excalidraw/Проходження Бар.png",
     "Files/Проходження БАР.png",
     "Files/Stress-diathesis model.png",
