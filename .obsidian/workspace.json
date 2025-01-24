@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Маніакальний епізод.md",
+                "file": "Base/Гіпоманіакальний епізод.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Маніакальний епізод"
+              "title": "Гіпоманіакальний епізод"
             }
           },
           {
             "id": "9bd9cc0fa89426e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Base/Гіпоманіакальний епізод.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Гіпоманіакальний епізод"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,15 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9bd9cc0fa89426e8",
   "lastOpenFiles": [
-    "Base/Маніакальний епізод.md",
-    "Base/Афективні розлади (F30-F39).md",
-    "Base/Біполярний афективний розлад.md",
     "Base/Модуль_5.md",
+    "Base/Афективні розлади (F30-F39).md",
     "Base/Пропедевтика_психіатрії.md",
     "Base/courses.md",
     "home/Homepage.md",
+    "Base/Гіпоманіакальний епізод.md",
+    "Base/Маніакальний епізод.md",
+    "Base/Біполярний афективний розлад.md",
     "Excalidraw/Проходження Бар.md",
     "Excalidraw/Проходження Бар.png",
     "Base/Критерії психічного здоров'я.md",
@@ -202,7 +208,6 @@
     "Base/Розлади пам'яті.md",
     "Base/Психопатологічні синдроми.md",
     "Base/Невідкладна допомога.md",
-    "Base/Оцінка психічного статусу.md",
     "Files/The Conscious Mind.jpg",
     "/The Conscious Mind.jpg",
     "Untitled.canvas",
